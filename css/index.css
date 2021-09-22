@@ -1,0 +1,108 @@
+body {
+    background-color: #1b145a;
+}
+
+.frame {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: -41%;
+}
+
+.star-1 {
+    display: block;
+    margin-left: 85%;
+    margin-right: auto;
+    margin-top: -15%;
+}
+
+.star-2 {
+    display: block;
+    margin-left: 29%;
+    margin-right: auto;
+    margin-top: -2%;
+}
+
+.star-3 {
+    display: block;
+    margin-left: 70%;
+    margin-right: auto;
+    margin-top: -8%;
+}
+
+.ellipse {
+    display: block;
+    margin-left: 34%;
+    margin-right: auto;
+    margin-top: 29%;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    width: 12%;
+}
+
+.text-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+.text-center-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -5.2%;
+    height: 70px;
+    width: 22.5%;
+    background-color: #ed975e;
+    transform: rotate(-3deg);
+    -moz-transform: rotate(-3deg);
+    -webkit-transform: rotate(-3deg);
+    -khtml-transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+}
+
+.text-center-3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+    height: 80px;
+    width: 24%;
+    background-color: #d65d55;
+    transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    -webkit-transform: rotate(-1deg);
+    -khtml-transform: rotate(-1deg);
+    -ms-transform: rotate(-1deg);
+}
+
+.text-1 {
+    font-family: degular-display, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 330%;
+    color: #b3cef9;
+    text-align: center;
+    margin-top: -3%;
+}
+
+.text-2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+    color: #ffffff;
+    text-align: center;
+}
+
+.text-transparent {
+    color: transparent;
+}

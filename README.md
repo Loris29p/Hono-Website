@@ -1,1 +1,1 @@
-# Hono-Website
+Projet pour l'entreprise Hono.
